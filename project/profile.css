@@ -1,45 +1,57 @@
-       body{
-        background-color: #F7F2EB;
-       }
-       #navbar{
-            padding-top: 25px;
-            padding-left: 50px;
-            padding-bottom: 15px;
-           
+        body{
+            background-color: #F7F2EB;
         }
-        #navbar a{
-        margin-right: 50px;
-        text-decoration: none;
-        font-family: playfair display;
-         color:#800020;
-        }
-        p{
-            color: black;
+        #navbar{
+                padding-top: 25px;
+                padding-left: 50px;
+                padding-bottom: 15px;
+            
+            }
+            #navbar a{
+            margin-right: 50px;
+            text-decoration: none;
             font-family: playfair display;
-            font-size: 75px;
-        }
-        .buttons{
-            padding: auto;
-           margin-right: 10px;
-            display:inline-flex;
-        }
-        #me{    
-             height:fit-content;
-            width:fit-content;
-            border-radius: 35px;
-            background-color: #FFD51E;
-            color: #800020;
-            font-size: 20px;
-            text-decoration: none;
-            margin-left: 50px;
-        }
-         #me1{
-             height: fit-content;
-            width:fit-content;
-            border-radius: 35px;
-            background-color: #FF7F50;
-            color: #800020;
-            font-size: 20px;
-            text-decoration: none;
-            margin-left: 75px;
-        }
+            color:#800020;
+            }
+            .sintro{
+                margin-left: 100px;
+            }
+            #p1{
+                color: black;
+                font-family: playfair display;
+                font-size: 75px;
+            }  
+            #me{    
+                height:fit-content;
+                width:fit-content;
+                border-radius: 35px;
+                background-color: #FFD51E;
+                color: #800020;
+                font-size: 20px;
+                text-decoration: none;
+                margin-left: 20px;
+            }
+        
+            #me1{
+                height: fit-content;
+                width:fit-content;
+                border-radius: 35px;
+                background-color: #FF7F50;
+                color: #800020;
+                font-size: 20px;
+                text-decoration: none;
+                margin-left: 75px;
+            }
+            .aboutme{
+                margin-top: 100px;
+            }
+            article {
+    float: right;
+    padding: 20px;
+    width: 70%;
+    background-color: #f1f1f1;
+    height: 200px; 
+    }
+
+
+            

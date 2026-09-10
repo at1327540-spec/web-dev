@@ -1,0 +1,10 @@
+ #head{    
+             height:fit-content;
+            width:fit-content;
+            border-radius: 35px;
+            background-color: #FFD51E;
+            color: #800020;
+            font-size: 20px;
+            text-decoration: none;
+            margin-left: 50px;
+        }
