@@ -5,8 +5,7 @@
                 #navbar{
                         padding-top: 25px;
                         padding-left: 50px;
-                        padding-bottom: 15px;
-                    
+                        padding-bottom: 15px; 
                     }
                     #navbar a{
                     margin-right: 50px;
@@ -44,10 +43,16 @@
                     .aboutme{
                         margin-top: 100px;
                     }
-                    section{
+                    #icons{
+                       padding: 20px;
+                    }
+                .fa:hover {
+    opacity: 0.7;
+}
+                    #section1{
                     padding-top: 60px;
                  }
-                    article {
+                    #article1 {
             float: right;
             padding: 20px;
             width: 70%;
@@ -56,6 +61,21 @@
             }
         #h1{
             float: left;
+            padding: 45px;
+            color: #800020;
+        }
+        #project{
+            padding-top: 50px;
+        }
+          #article2 {
+            float:left;
+            padding: 20px;
+            width: 70%;
+            background-color: #f1f1f1;
+            height: 200px; 
+            }
+        #h2{
+            float: right;
             padding: 45px;
             color: #800020;
         }
