@@ -21,11 +21,30 @@
 .card img{
   align-items: center;
 }
-aside{
-  width: 30%;
- 
-}
-.img{
-  display: inline;
-  align-items: center;
-}
+ .aboutme{
+                            margin-top: 100px;
+                        }
+                        #icons{
+                        padding: 20px;
+                        margin-right: 40px;
+                        }
+                    .fa:hover {
+        opacity: 0.7;
+    }
+                        #section1{
+                        padding-top: 60px;
+                    }
+                        #article1 {
+                float: right;
+                padding: 20px;
+                width: 70%;
+                background-color: #8B9A6E;
+                height: 200px; 
+                }
+            #h1{
+                float: left;
+                padding: 45px;
+                color: #800020;
+                justify-content: center;
+            }
+        
