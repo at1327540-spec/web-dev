@@ -21,3 +21,11 @@
 .card img{
   align-items: center;
 }
+aside{
+  width: 30%;
+ 
+}
+.img{
+  display: inline;
+  align-items: center;
+}
