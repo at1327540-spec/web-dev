@@ -3,23 +3,25 @@ body{
 }
 div{
      height: 100px;
-    width: 100px;
+    width: 50px;
 border: 2px solid black;
     display: inline-block;
 }
 #container{
-    width: 800px;
-    height: 200px;
+    width: 700px;
+    height: 300px;
     display: flex;
     flex-direction: row;
     justify-content:center;
+    align-items: flex-start;
 
 }
 #box1{
     background-color: blueviolet;
+    flex-grow: 2px;
 }
 #box2{
-     
+     height: 250px;
     background-color: lawngreen;
 }
 #box3{
