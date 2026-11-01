@@ -1,0 +1,23 @@
+            .navbar{
+                background-color: chartreuse;
+            }
+            .container{
+                display: flex;
+                justify-content: space-around ;
+                align-items: center;
+            }
+            .container li {
+                list-style-type: none;
+            }
+            .container a{
+                text-decoration: none;
+            }
+        
+            .searchbar #searchbox{
+                height:30PX;
+                width:300PX;
+                border: 2px solid black;
+                border-radius: 10PX;
+
+            }
+            
